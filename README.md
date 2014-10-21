@@ -33,7 +33,12 @@ vtp3-open-data-portal
 
 **In ArcGIS Online**
 
-
+```
+There seems to be a problem with the Open Data Portal for ArcGIS Online
+Here is an issue discussing the problem on GeoNet 
+https://geonet.esri.com/thread/107927
+Waiting on reply from French @ Esri
+```
 
 #Metadata Standards
 
