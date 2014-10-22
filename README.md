@@ -5,7 +5,9 @@ vtp3-open-data-portal
 
 #[Open Data Portal](http://vtransparency.vtrans.opendata.arcgis.com/)
 
-Example: http://beta.esri.opendata.arcgis.com/
+Examples: 
+- [Esri default example](http://beta.esri.opendata.arcgis.com/)
+- [Maryland iMap](http://data.imap.maryland.gov/)
 
 
 #Setup
@@ -53,6 +55,13 @@ Here is an issue discussing the problem on GeoNet
 https://geonet.esri.com/thread/107927
 Waiting on reply from French @ Esri
 ```
+Reply 10/22/14 4:26:
+```
+They acknowledged the issue as a bug, however they don’t know exactly what dataset elements cause it during harvesting.  The recommendation was to try publishing as a hosted feature service in ArcGIS Online to test, and serve temporarily while the fix is developed (expected 2-3 weeks).   
+
+Can you test the data (or subset) with a hosted service and report back?  That will help our teams nail down the issue.
+
+```
 
 #Metadata Standards
-
+Needed
