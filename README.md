@@ -3,7 +3,7 @@ vtp3-open-data-portal
 
 "All data we share should be available on the AGOL Open Data Portal"
 
-[#Open Data Portal](http://vtransparency.vtrans.opendata.arcgis.com/)
+#[Open Data Portal](http://vtransparency.vtrans.opendata.arcgis.com/)
 
 Example: http://beta.esri.opendata.arcgis.com/
 
