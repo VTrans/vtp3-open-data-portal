@@ -33,6 +33,17 @@ http://beta.esri.opendata.arcgis.com/
 
 **In ArcGIS Online**
 
+1. Find your `FeatureService` URL [here](http://vtransmap01.aot.state.vt.us/arcgis/rest/services)
+2. In `My Content`, click Add Item
+3. Choose `On the web` from the dropdown
+4. Paste in the `FeatureService` URL
+5. Click Add Item
+6. Go to the item
+7. Click Share
+8. Select `Everyone` and `VTransparency (open data)`  
+9. Hit OK
+
+
 ```
 There seems to be a problem with the Open Data Portal for ArcGIS Online
 Here is an issue discussing the problem on GeoNet 
