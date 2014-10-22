@@ -43,6 +43,9 @@ Example: http://beta.esri.opendata.arcgis.com/
 8. Select `Everyone` and `VTransparency (open data)`  
 9. Hit OK
 
+**OpenData admin panel**
+[admin panel link](https://opendata.arcgis.com/admin/#/sites)
+
 
 ```
 There seems to be a problem with the Open Data Portal for ArcGIS Online
