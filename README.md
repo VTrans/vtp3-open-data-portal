@@ -12,9 +12,9 @@ Example: http://beta.esri.opendata.arcgis.com/
 
 [Documentation](http://doc.arcgis.com/en/open-data)
 
-#All feature services have to be published with `Feature Access` capability and the `Query` operation allowed. [(ref)](http://doc.arcgis.com/en/open-data/provider/specify-groups-for-open-data.htm)
+###All feature services have to be published with `Feature Access` capability and the `Query` operation allowed. [(ref)](http://doc.arcgis.com/en/open-data/provider/specify-groups-for-open-data.htm)
 
-[####ArcGIS Online Group](http://vtrans.maps.arcgis.com/home/group.html?id=6e800ae91782448c8263a1456a783fc6)
+####[ArcGIS Online Group](http://vtrans.maps.arcgis.com/home/group.html?id=6e800ae91782448c8263a1456a783fc6)
 
 ###Publishing Services
 
