@@ -5,7 +5,7 @@ vtp3-open-data-portal
 
 [#Open Data Portal](http://vtransparency.vtrans.opendata.arcgis.com/)
 
-http://beta.esri.opendata.arcgis.com/
+Example: http://beta.esri.opendata.arcgis.com/
 
 
 #Setup
