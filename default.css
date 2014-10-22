@@ -1,0 +1,69 @@
+Header element highlighted
+#header {
+background: #ffffff;
+height: 50px; 
+}
+
+Searchbar element highlighted
+#title-bar-region {
+background-color: #fcfcfc;
+}
+
+Map share element highlighted
+#title-bar-region 
+#global-nav-region #nav-share-popover {
+background: #bedced;
+}
+
+Map size control element highlighted
+#map-bar-region #controls-region #controls {
+background-color: #ededed;
+}
+
+Map navigation element highlighted
+.esriSimpleSliderIncrementButton,
+.esriSimpleSliderDecrementButton {
+background-color: #ededed !important;
+}
+
+#map-bar-region #locator-region #locator {
+background: #ededed;
+}
+
+h2 element highlighted
+#page-content h2 {
+font-size: 2em;
+line-height: 1.3em;
+font-family: "Avenir LT W01 35 Light", Arial, Helvetica, sans-serif;
+color: #007ac2;
+}
+
+Favorites element highlighted
+#saved-layers {
+background: #fcfcfc;
+}
+
+Button element highlighted
+.btn {
+background-color: #007ac2;
+}
+
+.btn:hover {
+background-color: #4997d2;
+}
+
+Button pop-over element highlighted
+#show-banner-region .download-popover-container 
+.download-popover {
+background-color: #f6f6f6;
+}
+
+Button pop-over element highlighted
+#dataset-attributes-region .attribute-info {
+background: #eeeeee;
+}
+
+Footer element highlighted
+#footer {
+background: #f3f3ee;
+}
